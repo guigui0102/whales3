@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xef3334C0cF6198F983675dB2520ef614bab44251",
+  "SCAN_LINK": "https://polygonscan.com/address/0xef3334c0cf6198f983675db2520ef614bab44251",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Whales stickers NFT",
+  "SYMBOL": "CSWNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypto-whales-stickers",
+  "SHOW_BACKGROUND": true
+}
